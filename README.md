@@ -1,6 +1,7 @@
 Oscillatory-Motion-Tracking-With-x-IMU
 ======================================
 
+
 A demonstration for tracking cyclic motion using an [x-IMU](http://www.x-io.co.uk/x-imu) as shown in [this video](http://www.youtube.com/watch?v=SI1w9uaBw6Q).  During cyclic motion, the mean velocity and position are zero over a short period of time.  For example, this might represent the motion of a [buoy](http://en.wikipedia.org/wiki/Buoy) bobbing up and down in the ocean or the [chewing motion of a jaw](http://www.youtube.com/watch?v=9CFl4gasV48).
 
 <div align="center">
